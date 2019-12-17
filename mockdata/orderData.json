@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "price":13,
+        "dishId":"639dc474-df65-454a-88fa-721c8374516b",
+        "resturantId":1
+    },
+    {
+        "id":2,
+        "price":63,
+        "dishId":"2bedf1ee-1b19-4875-9555-2f4a5b0ef440",
+        "resturantId":2
+    },
+    {
+        "id":3,
+        "price":86,
+        "dishId":"a7faf6dc-c1c6-4146-bb65-9a6a635d8e7c",
+        "resturantId":3
+    }
+]

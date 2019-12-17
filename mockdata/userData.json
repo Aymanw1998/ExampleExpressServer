@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "firstName":"Dodi",
+        "lastName":"Telega",
+        "email":"dtelega0@microsoft.com",
+        "balance":523,
+        "history":[]
+    },
+    {
+        "id":2,
+        "firstName":"Darci",
+        "lastName":"Hallewell",
+        "email":"dhallewell1@blinklist.com",
+        "balance":448,
+        "history":[
+            {
+                "orderId":1,
+                "date":"5/8/2019"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "firstName":"Otto",
+        "lastName":"Lathleiff",
+        "email":"olathleiff2@redcross.org",
+        "balance":223,
+        "history":[]
+    }
+]
